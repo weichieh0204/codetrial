@@ -21,5 +21,7 @@
   "review_fingerprint": "d8f4a3a6b9e09f16a2a88538152b17b5b9f4053853b043acd355e04db85f24c2",
   "schema_version": 1,
   "change_id": "I26e35984c7a16ebfcb1ffcaf05577574fe6e6df0",
-  "workbench_started": true
+  "workbench_started": true,
+  "signature": "-----BEGIN SSH SIGNATURE-----\r\nU1NIU0lHAAAAAQAAAZcAAAAHc3NoLXJzYQAAAAMBAAEAAAGBAKkfKSkU9qb/YEvLmFSFnR\r\nO5JVr9fc8nZUpBMF8XhF5eu4D5ugicx42a6wIuRlueI3zjNVCLWnzNpigz3MqiVamkfSoh\r\nlmryWfZ4zHawacR8UEVkFWVrNqSSmVUecWfn33GRt255E/rLRQjCC8MogoxuQCRYpvgEJV\r\nQTn34zAwo1A153rUlnQO08eFxaDrDpsJt//h4jf9duu+V7DFvu5h7bKxRddGdb0wOPmYDJ\r\n1FD8+kDYMFiF6tHEBQ7+CCJHUi+HksQv8i8hO6lunMHUjagjbifK3Iq8HaFXFi56QCHscJ\r\nyuE2sBwveknWKpfr+hPUC70t4d4Sp8zlKwQdq+pg4OXa5O+SwloOnBPGcyPCS/sFZY8JSP\r\nmuJMLdkyHImcuTxhKpjb1H2PJomIuJkvVl8v+t9fdxcCGJRBLAbrUrYRwzH6ZEeY7lw9Lx\r\nHDC4sx+mGeWcijejF1omzQdTh2I3QG5PjZPzh+BLq8BudQi1E/mZdiE80MrjXHQfHsASAe\r\nRQAAABBjb2RldHJpYWwtcmV2aWV3AAAAAAAAAAZzaGE1MTIAAAGUAAAADHJzYS1zaGEyLT\r\nUxMgAAAYAx3yRgWFeMdbZszggaASpDtnRYuXQPFs7y7vP7c9iNHx2FoZgpx1jmwnrybVFJ\r\n4036/HC5LzlQvDlc3wRpLuLDiHzyPGtWiAWOrSb04vNzzGt9RYsehTFmVsZUmQLnhULroK\r\ndY5+eGMslAi82n4gb1JGm5tW4+e6LGVuP31MdSftIBnVvuCCxW16DAPNJz+NdHNQCER1vt\r\nZVXIE8laz6Tf1Gb2s5EIDAUwzxRz/f831rOAuxwiUM4H4wFDbSXHgbgBpNzMJixRSGDh2X\r\nKZuImJqLfVEwALJbV5+OYmu2zNjWoA8Y81evlvXvjkscSeug1c/fGnahvFMlEqoVnasf3+\r\n77G5pJG/XX70J+Jwt3NsJu5l7hLYvOLcZtk6B7wZw5uAKWqqZ/uqyrby265vuZMhOQU42Q\r\nSVP/G4QtZeaO6yjTEyToyOr6vZYNq8Fk9z24rK+acxzutrdRQJJAcf8o/PPdrsWh0SyknM\r\nzww2f1skPPi/asam+tc6ZCYFCpedhRs=\r\n-----END SSH SIGNATURE-----\r\n",
+  "key_fingerprint": "SHA256:aZ7at6O2cSinVkUSTZRdu5SRFEfLp3nNYfMKPny/MtI"
 }
